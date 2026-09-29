@@ -1,2 +1,3 @@
 maqao
 *.o
+*.dSYM/
