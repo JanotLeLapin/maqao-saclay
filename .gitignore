@@ -1,3 +1,5 @@
 maqao
 *.o
+gcm.cache/
+
 *.dSYM/
