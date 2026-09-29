@@ -1,3 +1,4 @@
 maqao
 *.o
 *.dSYM/
+build/
