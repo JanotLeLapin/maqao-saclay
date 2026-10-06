@@ -1,0 +1,9 @@
+[submodule "baseline"]
+	path = baseline
+	url = git@github.com:Mantevo/miniMD.git
+[submodule "optim-group"]
+	path = optim-group
+	url = git@github.com:ppn-optimisation-minimd/minimd-optim-group
+[submodule "optim-llm"]
+	path = optim-llm
+	url = git@github.com:ppn-optimisation-minimd/minimd-optim-llm
